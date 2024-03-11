@@ -1,28 +1,7 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quarto5",
-    "section": "",
-    "text": "This is Adriana DeSantis’s Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentation",
-    "section": "",
-    "text": "This Adriana DeSantis’s presentation tab where all of her products will be placed!"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This Adriana DeSantis’s projects tab where all of her products will be placed!"
-  },
-  {
-    "objectID": "Labs.html",
-    "href": "Labs.html",
+    "objectID": "labs.html",
+    "href": "labs.html",
     "title": "Labs",
     "section": "",
     "text": "This Adriana DeSantis’s labs tab where all of her products will be placed!"
@@ -33,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "I am an ambitious, confident, and hard-working professional who rises to challenges with methodology, intellect, and perspective. I look forward to new challenges and tackle them with the highest expectations from myself. With a great desire, determination, and commitment for success, I strive for excellence and am eager to learn. I aspire for growth and take advantage of any opportunity that will facilitate and advance development."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This Adriana DeSantis’s projects tab where all of her products will be placed!"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "This Adriana DeSantis’s presentation tab where all of her products will be placed!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto5",
+    "section": "",
+    "text": "This is Adriana DeSantis’s Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
