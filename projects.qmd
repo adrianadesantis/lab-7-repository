@@ -1,0 +1,7 @@
+---
+title: "Projects"
+format: html
+editor: visual
+---
+
+This Adriana DeSantis's projects tab where all of her products will be placed!
